@@ -1,0 +1,1 @@
+The data of Water Shortage Vulnerability scoring for domestic wells and state smalls were downloaded from the CNRA portal in shapefile format. The given shapefile data contains a larger number of vector polygons over the entire California. The attribute table contains the field name ‘Total_Score’. 
